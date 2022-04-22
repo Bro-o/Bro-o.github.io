@@ -2,6 +2,10 @@
 main:
   - title: "Home"
     url: https://Bro-o.github.io
+  - title: "Career"
+    url: /categories/Career
+  - title: "Book"
+    url: /categories/Book
   - title: "About"
     url: /about/
   # - title: "Sample Posts"

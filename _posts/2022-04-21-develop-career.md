@@ -1,12 +1,30 @@
 ---
 title: "개발 공부 방향"
-excerpt: "aa"
+excerpt: "어떤 계획을 세워야 할지, 어떤 개발자가 되고 싶은지"
 
 categories:
     - Blog
 tags:
     - Blog
-last_modified_at: 2022-04-21 18:00:00 +0900
+date: 2022-04-21
 ---
 
-GtiHub 블로그 시작
+## 목표
+백앤드 서버 개발자
+
+## 계획
+(1) 개발 공부
+- 운영체제, 네트워크
+- 알고리즘, 자료구조
+- Spring
+- Restful API
+- RDB
+- JPA
+- SQL
+- Kotlin
+- AWS
+
+(2) 개발 프로젝트
+
+(3) 취업 준비
+(4) 취업
