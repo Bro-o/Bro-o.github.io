@@ -1,7 +1,8 @@
 ---
 title: "4장 기술을 발전시키는 방법"
 excerpt: "커리어 스킬 - 존 손메즈"
-
+toc: true
+toc_sticky: true
 categories:
     - Book
 tags:

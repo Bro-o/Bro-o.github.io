@@ -1,7 +1,8 @@
 ---
 title: "개발 공부 방향"
 excerpt: "어떤 계획을 세워야 할지, 어떤 개발자가 되고 싶은지"
-
+toc: true
+toc_sticky: true
 categories:
     - Blog
 tags:

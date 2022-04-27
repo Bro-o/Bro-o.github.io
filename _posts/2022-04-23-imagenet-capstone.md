@@ -1,7 +1,8 @@
 ---
 title: "캡스톤 - ImageNet 전처리 코드 작성 및 리뷰"
 excerpt: "ImageNet 1/10로 줄이기, ResNet50 Maxpool 까지 진행한 텐서 추출"
-
+toc: true
+toc_sticky: true
 categories:
     - Code
 tags:

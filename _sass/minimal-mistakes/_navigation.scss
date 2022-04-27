@@ -505,7 +505,7 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  color: $gray;
+  color: $dark-gray;
   background-color: $background-color;
   border: 1px solid $border-color;
   border-radius: $border-radius;
@@ -513,7 +513,7 @@
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
+    color: $dark-gray;
     font-size: $type-size-6;
     background: $primary-color;
     border-top-left-radius: $border-radius;
@@ -543,7 +543,7 @@
     color: $muted-text-color;
     font-weight: bold;
     line-height: 1.5;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid #FFD54F;
 
     &:hover {
       color: $text-color;
